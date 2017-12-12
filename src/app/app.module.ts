@@ -17,8 +17,8 @@ export const firebaseConfig = {
   apiKey: "YOUR_API_KEY",
   authDomain: "YOUR_AUTH_DOMAIN",
   databaseURL: "YOUR_URL",
-  projectId: "ionbasics",
-  storageBucket: "ionbasics.appspot.com",
+  projectId: "YOUR_PROJECT_ID",
+  storageBucket: "YOUR_STORAGE_URL",
   messagingSenderId: "YOUR_SENDER_ID"
 };
 
