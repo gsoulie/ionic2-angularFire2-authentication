@@ -14,12 +14,12 @@ import { ResetPasswordPage } from '../pages/reset-password/reset-password';
 
 // AngularFire2 account settings
 export const firebaseConfig = {
-  apiKey: "AIzaSyD9EmXVKrIIJsNO0azStFt7ImsAe71BZD0",
-  authDomain: "ionbasics.firebaseapp.com",
-  databaseURL: "https://ionbasics.firebaseio.com",
+  apiKey: "YOUR_API_KEY",
+  authDomain: "YOUR_AUTH_DOMAIN",
+  databaseURL: "YOUR_URL",
   projectId: "ionbasics",
   storageBucket: "ionbasics.appspot.com",
-  messagingSenderId: "57683347176"
+  messagingSenderId: "YOUR_SENDER_ID"
 };
 
 @NgModule({
